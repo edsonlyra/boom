@@ -1,0 +1,20 @@
+{
+  "name": "meuprimeiroprojeto",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Edson Lyra <edson.lyra@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
