@@ -6728,6 +6728,9 @@ p {
 h1 {
   margin-bottom: 30px;
 }
+.nav a {
+  font-weight: bold;
+}
 .jumbotron p {
   font-size: 12px;
 }
