@@ -1,0 +1,11 @@
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+
+# Ignore Idellij
+*.iml
+
+node_modules
+
+bower_components
