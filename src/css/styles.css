@@ -4975,7 +4975,7 @@ a.badge:focus {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 63px;
+    font-size: 48px;
   }
 }
 .thumbnail {
@@ -6729,13 +6729,13 @@ h1 {
   margin-bottom: 30px;
 }
 .jumbotron p {
-  font-size: 16px;
+  font-size: 13px;
 }
 .jumbotron ul {
   font-size: 18px;
   font-weight: 700;
   padding-bottom: 20px;
 }
-#iphone-img {
+.iphone-img {
   margin-top: 30px;
 }
